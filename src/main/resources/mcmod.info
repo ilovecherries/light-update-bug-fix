@@ -1,0 +1,9 @@
+[{
+  "modid": "light-update-bug-fix",
+  "name": "Light Update Bug Fix",
+  "description": "Fixed Light Update Bug",
+  "version": "1.0",
+  "mcversion": "1.16.5",
+  "authorList": ["Cherry"],
+  "credits": "None"
+}]
